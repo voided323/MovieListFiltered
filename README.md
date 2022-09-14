@@ -6,6 +6,9 @@ This repo is storage for a list of parsed movies in the format suitable for assi
 Original list is from https://github.com/erik-sytnyk/movies-list/blob/master/db.json
 
 
+the prettied file is in `moviesPretty.json` 
+
+
 Intended format is as follows
 ```json
 	{
@@ -16,3 +19,5 @@ Intended format is as follows
 	}
 
 ```
+
+
